@@ -1,0 +1,8 @@
+student_management/
+│
+├── index.php
+├── db.php
+├── add_student.php
+├── edit_student.php
+├── delete_student.php
+└── style.css
